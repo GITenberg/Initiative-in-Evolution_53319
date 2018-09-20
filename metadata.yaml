@@ -1,5 +1,8 @@
 _repo: Initiative-in-Evolution_53319
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53319-h/images/cover.jpg
 creator:
   author:
     agent_name: Kidd, Walter
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47316'
     url: http://www.gutenberg.org/2009/agents/47316
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53319#Initiative-in-Evolution
 gutenberg_issued: '2016-10-19'
 gutenberg_type: Text
 identifiers:
