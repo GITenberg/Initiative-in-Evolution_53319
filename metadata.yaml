@@ -1,0 +1,26 @@
+_repo: Initiative-in-Evolution_53319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kidd, Walter
+    alias: Kidd, Walter Aubrey
+    birthdate: 1852
+    gutenberg_agent_id: '47316'
+    url: http://www.gutenberg.org/2009/agents/47316
+description: ''
+gutenberg_issued: '2016-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53319'
+  lccn: '21011719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcsh 'Hair'
+- !lcc 'QH'
+- GITenberg
+title: Initiative in Evolution
+url: http://www.gutenberg.org/ebooks/53319
